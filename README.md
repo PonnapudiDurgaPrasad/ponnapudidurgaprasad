@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-**PonnapudiDurgaPrasad/ponnapudidurgaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi there, I'm Ponnapudi Durga Prasad!
+## 👋 Hi there, I'm Ponnapudi Durga Prasad!
 
 🎓 Mechanical Engineering Student | CAD & Simulation Enthusiast 
 
@@ -11,8 +7,10 @@
 - CPU Heat Sink Design with Triangular Honeycomb Geometry ❄️
   
 🔧 Internships & Training
+
 🏭 Industrial Trainee, TTD Transport Workshop, Tirupati (Sep 2021 – Jan 2022)
 Preventive maintenance, servicing, and electromechanical system diagnostics for transport vehicles.
+
 🛠️ In-Plant Training, K.S. Engineering Tools, Tiruvallur (5 Days)
 Observed CNC/VMC machining operations, learned basics of G-code/M-code programming and industrial quality inspection.
 
