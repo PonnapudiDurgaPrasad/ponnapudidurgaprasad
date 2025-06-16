@@ -30,6 +30,6 @@ Observed CNC/VMC machining operations, learned basics of G-code/M-code programmi
 LinkedIn: https://www.linkedin.com/in/ponnapudi-durga-prasad-979997367/
 
 
-- 🔭 I’m currently working on these two projects:
+ 🔭 I’m currently working on these two projects:
 - Design of a Modular Vacuum-Compatible Robotic End-Effector 🔧 *(Ongoing)*
 - Vacuum Chamber Flange Design with Pressure Analysis 💨 *(Ongoing)*
