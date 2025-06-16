@@ -9,9 +9,11 @@
 🔧 Internships & Training
 
 🏭 Industrial Trainee, TTD Transport Workshop, Tirupati (Sep 2021 – Jan 2022)
+
 Preventive maintenance, servicing, and electromechanical system diagnostics for transport vehicles.
 
 🛠️ In-Plant Training, K.S. Engineering Tools, Tiruvallur (5 Days)
+
 Observed CNC/VMC machining operations, learned basics of G-code/M-code programming and industrial quality inspection.
 
 💡 **Skills:**
@@ -22,7 +24,7 @@ Observed CNC/VMC machining operations, learned basics of G-code/M-code programmi
 - **Project Scheduling:** TeamGantt
 - **Others:** MS Office, Video Editing
 
-🎯 **Interests:** Mechanical Design | Mechatronics | Vacuum Systems | 3D Printing | 
+🎯 **Interests:** Mechanical Design | Mechatronics | 3D Printing | 
 
 
 📬 **Contact:** Gmail: ponnapudidurgaprasad@gmail.com
