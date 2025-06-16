@@ -9,7 +9,12 @@
 🚀 **Current  Projects:**
 - Miniature 3D Printed Pick-and-Place Robotic Arm 🤖
 - CPU Heat Sink Design with Triangular Honeycomb Geometry ❄️
-
+  
+🔧 Internships & Training
+🏭 Industrial Trainee, TTD Transport Workshop, Tirupati (Sep 2021 – Jan 2022)
+Preventive maintenance, servicing, and electromechanical system diagnostics for transport vehicles.
+🛠️ In-Plant Training, K.S. Engineering Tools, Tiruvallur (5 Days)
+Observed CNC/VMC machining operations, learned basics of G-code/M-code programming and industrial quality inspection.
 
 💡 **Skills:**
 
@@ -22,21 +27,10 @@
 🎯 **Interests:** Mechanical Design | Mechatronics | Vacuum Systems | 3D Printing | 
 
 
-📬 **Contact:** ponnapudidurgaprasad@gmail.com
+📬 **Contact:** Gmail: ponnapudidurgaprasad@gmail.com
+LinkedIn: https://www.linkedin.com/in/ponnapudi-durga-prasad-979997367/
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on these two projects:
 - Design of a Modular Vacuum-Compatible Robotic End-Effector 🔧 *(Ongoing)*
 - Vacuum Chamber Flange Design with Pressure Analysis 💨 *(Ongoing)*
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-Gmail: ponnapudidurgaprasad@gmail.com
-LinkedIn: https://www.linkedin.com/in/ponnapudi-durga-prasad-979997367/
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
